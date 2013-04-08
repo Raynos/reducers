@@ -28,7 +28,7 @@
     "url": "http://github.com/Gozala/reducers/issues/"
   },
   "dependencies": {
-    "reducible": "~1.0.6"
+    "reducible": "Raynos/reducible#v1.0.6"
   },
   "devDependencies": {
     "test": "~0.5.2",
